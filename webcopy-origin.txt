@@ -1,0 +1,200 @@
+Uri: http://localhost:5000/
+File Name: C:\Downloaded Web Sites\localhost\index.htm
+Content Type: text/html
+
+Uri: http://localhost:5000/css/cart.css?v=aXfbukzCcP2kTJTzTyKCZ6FRFnMt88lw6HaIIuIkY0g
+File Name: C:\Downloaded Web Sites\localhost\css (1)\cart.css
+Content Type: text/css
+
+Uri: http://localhost:5000/css/content.css?v=FEnCI2TzrNI3oF0FT8qCQKRYvnEgY-ok6luejpFgHyY
+File Name: C:\Downloaded Web Sites\localhost\css (1)\content.css
+Content Type: text/css
+
+Uri: http://localhost:5000/css/contetDetails.css
+File Name: C:\Downloaded Web Sites\localhost\css (1)\contetDetails.css
+Content Type: text/css
+
+Uri: http://localhost:5000/css/footer.css
+File Name: C:\Downloaded Web Sites\localhost\css (1)\footer-1.css
+Content Type: text/css
+
+Uri: http://localhost:5000/css/footer.css?v=T4elmVeM3ih6XKiD5hy9TMdURago04YFzLsJjIDBmf0
+File Name: C:\Downloaded Web Sites\localhost\css (1)\footer.css
+Content Type: text/css
+
+Uri: http://localhost:5000/css/header.css?v=MTgFeimienNvhD4cIEqFFuveDHVZFDr7e3Bo_Kpmeac
+File Name: C:\Downloaded Web Sites\localhost\css (1)\header.css
+Content Type: text/css
+
+Uri: http://localhost:5000/Home/AddToCart/1
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\1.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/10
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\10.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/2
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\2.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/3
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\3.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/4
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\4.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/5
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\5.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/6
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\6.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/7
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\7.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/8
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\8.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/AddToCart/9
+File Name: C:\Downloaded Web Sites\localhost\Home\AddToCart\9.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Cart
+File Name: C:\Downloaded Web Sites\localhost\Home\Cart.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/1
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\1.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/10
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\10.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/2
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\2.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/3
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\3.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/4
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\4.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/5
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\5.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/6
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\6.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/7
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\7.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/8
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\8.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/Preview/9
+File Name: C:\Downloaded Web Sites\localhost\Home\Preview\9.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/1
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\1.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/10
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\10.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/2
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\2.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/3
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\3.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/4
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\4.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/5
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\5.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/6
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\6.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/7
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\7.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/8
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\8.html
+Content Type: text/html
+
+Uri: http://localhost:5000/Home/RemoveItem/9
+File Name: C:\Downloaded Web Sites\localhost\Home\RemoveItem\9.html
+Content Type: text/html
+
+Uri: http://localhost:5000/img/img1.png
+File Name: C:\Downloaded Web Sites\localhost\img\img1.png
+Content Type: image/png
+
+Uri: http://localhost:5000/img/img2.png
+File Name: C:\Downloaded Web Sites\localhost\img\img2.png
+Content Type: image/png
+
+Uri: http://localhost:5000/img/img3.png
+File Name: C:\Downloaded Web Sites\localhost\img\img3.png
+Content Type: image/png
+
+Uri: http://localhost:5000/img/img4.png
+File Name: C:\Downloaded Web Sites\localhost\img\img4.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js
+File Name: C:\Downloaded Web Sites\localhost\ajax\libs\slick-carousel\1.9.0\slick.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lato&display=swap
+File Name: C:\Downloaded Web Sites\localhost\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400
+File Name: C:\Downloaded Web Sites\localhost\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/4a3b1f73a2.js
+File Name: C:\Downloaded Web Sites\localhost\4a3b1f73a2.js
+Content Type: text/javascript
+
+Uri: https://yt3.ggpht.com/a/AGF-l78km1YyNXmF0r3-0CycCA0HLA_i6zYn_8NZEg=s900-c-k-c0xffffffff-no-rj-mo
+File Name: C:\Downloaded Web Sites\localhost\a\AGF-l78km1YyNXmF0r3-0CycCA0HLA_i6zYn_8NZEg=s900-c-k-c0xffffffff-no-rj-mo
+Content Type: image/jpeg
+
